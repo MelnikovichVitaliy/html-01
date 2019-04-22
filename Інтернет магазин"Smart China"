@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Інтернет магазин"Smart China"</title>
+</head>
+
+<body>
+    <h1>Інтернет магазин"Smart China"</h1>
+    <img src="img/foto1.jpg" alt="kopiya-jbl-charge-2-4">
+    <hr>
+
+    <h2>Копія JBL Charge 2+.Слухайте музику без дротів. Заряджайте пристрої без розетки!</h1>
+        <img src="img/foto2.jpg" alt="kopiya-jbl-charge-2-5">
+        <p>Колонка JBL Charge 2+ є найкращою в своєму сегменті! Основний плюс даної колонки-портативність.</p>
+        <p>Ви зможете спокійно носити її в руці підключившись до телефона чи смартфону по Bluetooth або AUX.</p>
+        <p>Зовнішня сітка корпусу дозволить захистити колонку від бризг води.</p>
+        <hr>
+
+        <h2>Потужна батарея дозволить колонці грати більш ніж 12 годин.</h1>
+            <img src="img/foto3.jpg" alt="kopiya-jbl-charge-2-5">
+            <p>2 динаміка дозволять видавати загальну потужність 15 W, даної потужності достатньо,щоб слухати</p>
+            <p>музику навіть на вулицях з великим скупченням людей,а в помешканні колонка звучить просто чудово!</p>
+            <p>Дану колонку можно використовувати на пікніку, в дорозі, просто гуляючи,вона може замінити</p>
+            <p>динаміки для комп`ютера чи ноутбука - у неї безліч застусувань і це робить її такою унікальною.</p>
+            <hr>
+            <h3>Характеристики :</h3>
+            <p><i>Портативність, невеликі габарити</p></i>
+                <p><i>Можна використовувати як Power Bank,зарядка пристроїв через USB </p></i>
+                    <p><i>Прекрасне звучання колонки</p></i>
+                        <p><i>Потужні динаміки 2 х 7,5 Вт</p></i>
+                            <p><i>Частота: 75Гц – 20кГц </p></i>
+                                <p><i>Волого-захистний корпус </p></i>
+                                    <p><i>Сильний сигнал Bluetooth до 20 м.</p></i>
+                                        <p><i>Bluetooth 3.0</p></i>
+                                            <p><i>Гучний зв`язок</p></i>
+                                                <p><i>FM радіо</p></i>
+                                                    <p><i>Аудіо-вхід 3,5 мм</p></i>
+                                                        <p><i>USB</p></i>
+                                                            <p><i>MicroSD</p></i>
+                                                                <p><i>LED-індикація рівня зарядки батареї</p></i>
+                                                                    <p><i>Режим Social Mode-для підключення декількох пристроїв</p></i>
+                                                                        <hr>
+                                                                        <h3>Комплект:</h3>
+                                                                        <p><i>Колонка JBL Charge 2+ копія</p></i>
+                                                                            <p><i>Коробка  USB</p></i>
+                                                                                <p><i>Шнур</p></i>
+                                                                                    <p><i>Інструкція</p></i>
+                                                                                        <hr>
+                                                                                        <h3>Зв'яжіться з нами:</h3>
+                                                                                        <form method="POST" action="https://formspree.io/uukrainian1942@gmail.com">
+                                                                                            <label for="client-name">ПІБ:</label>
+                                                                                            <input type="text" placeholder="Наприклад:Віталій" id="client-name" required>
+                                                                                            <br>
+                                                                                            <label>
+    Email: <input type="email" placeholder="Email"required>
+</label>
+                                                                                            <br>
+                                                                                            <label>Стать:</label>
+                                                                                            <label><input type="radio" value="чоловік" name="gender" checked>Чоловік</label>
+                                                                                            <label><input type="radio" value="жінка" name="gender" checked>Жінка</label>
+                                                                                            <label><input type="radio" value="інше" name="gender" checked>Інше</label>
+                                                                                            </label>
+                                                                                            <br>
+                                                                                            <label>
+    Ваш коментарій:
+    <br>
+    <textarea></textarea>
+    <input type="reset">
+    <input type="submit">
+    </form>
+</label>
+</body>
+
+</html>
